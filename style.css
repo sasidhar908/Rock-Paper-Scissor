@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(25, 25, 25);
+    font-family: Arial;
+    color: white;
+    text-align: center;
+}
+
+h3{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+.icon{
+    height : 50px;
+}
+.icon-buttons{
+    background-color: transparent;
+    border-radius :60px;
+    border: 3px solid white ;
+    padding: 20px;
+    margin: 15px;
+    cursor: pointer;
+}
+.result-area{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left :20px ;
+}
+.score-section{
+    margin-top: 40px;
+}
+.reset-score-button{
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+}
